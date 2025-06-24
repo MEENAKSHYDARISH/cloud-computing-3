@@ -42,3 +42,16 @@ Use API Gateway to make the function accessible online
 Connect the two using a fetch request from the frontend to the backend
 Conclusion
 By the end of this task, I was able to create a simple multi-cloud project that worked as expected. When I clicked the button on the Google Cloud-hosted webpage, it successfully fetched and displayed a message from an AWS Lambda function. This project helped me understand cloud basics, how APIs work, and how different cloud services can communicate with each other. It was a valuable learning experience and has given me the confidence to explore more cloud-based technologies in the future.
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/afbbd57d-b877-4043-90fa-1f8c440e573f)
+
+![Image](https://github.com/user-attachments/assets/819eecfe-70ad-4e97-a335-7f787ac364f9)
+
+![Image](https://github.com/user-attachments/assets/08723f7d-22eb-4d43-9040-6d8b0834c563)
+
+![Image](https://github.com/user-attachments/assets/6a74cfa1-9173-45a7-b422-e16d4298ada6)
+
+![Image](https://github.com/user-attachments/assets/e1ad5601-542b-407c-bff9-3eedb659b53c)
+
+![Image](https://github.com/user-attachments/assets/62627965-c6fa-4a44-80d7-ddbf58a683ae)
